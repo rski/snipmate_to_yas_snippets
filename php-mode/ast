@@ -1,0 +1,4 @@
+# name: "$this->assertTrue()"
+# key: ast
+# --
+$this->assertTrue($1);

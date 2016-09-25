@@ -1,0 +1,6 @@
+# name: "if (!condition) { ... }"
+# key: ifn
+# --
+if (!$1) {
+	$2
+}

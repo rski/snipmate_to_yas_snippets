@@ -1,0 +1,9 @@
+# name: "if (cond) { ... } else { ... }"
+# key: ife
+# --
+if ($1) {
+	$2
+} else {
+	$3
+}
+$0

@@ -1,0 +1,9 @@
+# name: "<?php if (condition): ?> ... <?php else: ?> ... <?php endif; ?>"
+# key: ifeil
+# --
+<?php if ($1): ?>
+	$2
+<?php else: ?>
+	$3
+<?php endif; ?>
+$0
