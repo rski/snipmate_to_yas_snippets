@@ -1,0 +1,4 @@
+# name: cw
+# key: cw
+# --
+console.warn($0);

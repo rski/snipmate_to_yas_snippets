@@ -8,4 +8,3 @@ var ${1:function_name} = function (${2:argument}) {
 		$0
 	};
 };
-

@@ -1,0 +1,6 @@
+# name: foro
+# key: foro
+# --
+for (let ${1:prop} of ${2:object}) {
+	${0:$1}
+}
